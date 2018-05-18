@@ -6,7 +6,9 @@
     <h2>Coaching Staff</h2> 
       <ol> Brandan Bersola </ol>
       <ol> Peter Ho </ol>
-      <ol> Sean Sueno </ol>
+      <ol>  
+       <a href= "tel: 808-256-0571> Sean Sueno </a>
+      </ol>
       <ol> Brent Vargus </ol>
     <h2>Summer Training 2018</h2>
       <span>
