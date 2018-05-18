@@ -1,16 +1,20 @@
-<h1>808 Slammers</h1>
+<div id="intro">
+ <h1>808 Slammers</h1>
+</div>
  <body>
     <h2>Coaching Staff</h2> 
       <ol>Brandan Bersola </ol>
       <ol> Peter Ho </ol>
       <ol> Sean Sueno </ol>
       <ol> Brent Vargus </ol>
+ <br>
     <h2>Summer Training 2018</h2>
-      <p>
+      <span>
         808 Slammers is hosting a summer training this summer for 4 weeks during the month of June. The training will start on June 4 to June 30, every Monday, Wednesday, Saturday. For more details, click the link below. 
-        <img src= "https://drive.google.com/open?id=1WhgmZkryuRO2RX8GQ78D9n0nqv8h4Bem"/>
-      </p>
+        <img src= "Copy of Holiday Tennis Camp Flyer - Made with PosterMyWall"/>
+      </span>
       <p>
         Location: <a href="https://www.google.com/maps/place/Pearl+Ridge+Community+Park,+Aiea,+HI+96701/@21.3880803,-157.9454512,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0068ad01a4f5af:0x9ebdcea6ab97656c!8m2!3d21.3883958!4d-157.9430479"> Pearlridge Community Park </a>
       </p>
+    <h2></h2>
  </body>
