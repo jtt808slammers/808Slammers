@@ -5,7 +5,9 @@
  </head>
  <body>
     <h2>Coaching Staff</h2> 
-      <ol> Brandan Bersola </ol>
+      <ol> 
+        <a href= "/" target= "_blank"> Brandan Bersola </a>
+      </ol>
       <ol> Peter Ho </ol>
       <ol> Sean Sueno </ol>
       <ol> Brent Vargus </ol>
