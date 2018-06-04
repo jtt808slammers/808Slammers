@@ -7,15 +7,12 @@
       <ol> 
         <a href= "/" target= "_blank"> Brandan Bersola </a>
       </ol>
-  
       <ol> 
         <a href= "/" target= "_blank"> Peter Ho </a>
       </ol>
-      
       <ol> 
         <a href= "/" target= "_blank"> Sean Sueno </a>
       </ol>
-      
       <ol> 
         <a href= "/" target= "_blank"> Brent Vargus </a>
       </ol>
