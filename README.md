@@ -1,36 +1,31 @@
 <html>
  <head>
-  <link rel="stylesheet" href="../css/normalize.css">
-  <link rel="stylesheet" href="../css/main.css">
+     <title> 808 Slammers </title>
  </head>
  <body>
     <h2>Coaching Staff</h2> 
       <ol> 
         <a href= "/" target= "_blank"> Brandan Bersola </a>
       </ol>
-      <ol> Peter Ho </ol>
-      <ol> Sean Sueno </ol>
-      <ol> Brent Vargus </ol>
+  
+      <ol> 
+        <a href= "/" target= "_blank"> Peter Ho </a>
+      </ol>
+      
+      <ol> 
+        <a href= "/" target= "_blank"> Sean Sueno </a>
+      </ol>
+      
+      <ol> 
+        <a href= "/" target= "_blank"> Brent Vargus </a>
+      </ol>
+<br>     
    <h2>Updates</h2>
      <p>
       Updates will be posted here regarding anything related to JTT, Training, or 808 Slammers. 
      </p>
   <br>
-       <p>
-          <em> First week of training camp! </em>
-       </p>
-       <table>
-            <tr>
-                <td> June 4 </td>
-                <td> June 6 </td>
-                <td> June 9 </td>
-            </tr> 
-            <tr>
-                <td> Reschedule Saturday training times </td>
-                <td> X </td>
-                <td> X </td>
-            </tr> 
-        </table>
+
    <h2>Summer Training 2018</h2>
       <p>
         808 Slammers is hosting a summer training this summer for 4 weeks during the month of June. The training will start on June 4 to June 30, every Monday, Wednesday, Saturday. For more details, view the following picture. 
