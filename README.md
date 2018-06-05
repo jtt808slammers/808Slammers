@@ -1,8 +1,7 @@
 <html>
- <head>
-     <title> 808 Slammers </title>
- </head>
  <body>
+  <h1> Welcome To The 808 Slammers Website </h1>
+  <br>
     <h2>Coaching Staff</h2> 
       <ol> 
         <a href= "/" target= "_blank"> Brandan Bersola </a>
